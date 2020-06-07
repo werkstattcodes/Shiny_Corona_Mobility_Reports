@@ -1,0 +1,12 @@
+name: Shiny_Corona_Mobility_Reports
+title: Shiny_Corona_Mobility_Reports
+username:
+account: roland-schmidt
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2403898
+bundleId: 3225572
+url: https://werkstattcodes.shinyapps.io/Shiny_Corona_Mobility_Reports/
+when: 1591221882.20861
+asMultiple: FALSE
+asStatic: FALSE
